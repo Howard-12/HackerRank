@@ -1,7 +1,8 @@
 # HackerRank
 
 ## Artificial Intelligence
-### Bot saves princess
+-[Bot saves princess](./Artifitial Intelligence/Bot saves princess.py)
+
 ```python
 def displayPathtoPrincess(n,grid):
     p = []
