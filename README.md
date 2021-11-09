@@ -43,7 +43,6 @@ for index, val in enumerate(grid):
             p.append(index)
             p.append(i)
 
-
 if abs(m[1] - p[1]) > abs(m[0] - p[0]) or m[1] == p[1]:
     return "RIGHT" if m[1] - p[1] < 0 else "LEFT"
 else:
