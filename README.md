@@ -2,7 +2,7 @@
 
 ## Artificial Intelligence
 ### Bot saves princess
-``` pyton
+```python
 def displayPathtoPrincess(n,grid):
     p = []
     m = []
