@@ -1,7 +1,7 @@
 # HackerRank
 
 ## Artificial Intelligence
-####[Bot saves princess](./Artificial%20Intelligence)
+#### [Bot saves princess](./Artificial%20Intelligence)
 
 ```python
 def displayPathtoPrincess(n,grid):
