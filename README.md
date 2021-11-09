@@ -1,7 +1,7 @@
 # HackerRank
 
 ## Artificial Intelligence
-- [Bot saves princess](https://youtube.com/)
+- [Bot saves princess](https://github.com/Howard-12/HackerRank/tree/main/Artificial%20Intelligence)
 
 ```python
 def displayPathtoPrincess(n,grid):
